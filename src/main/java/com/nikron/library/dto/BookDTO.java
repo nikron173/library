@@ -1,6 +1,5 @@
 package com.nikron.library.dto;
 
-import com.nikron.library.entity.Student;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.PositiveOrZero;
 import jakarta.validation.constraints.Size;
